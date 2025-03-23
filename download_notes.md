@@ -18,3 +18,5 @@ $ pip install knit-script
 
 check for errors here
 https://docs.google.com/document/d/1E5H74x_tJiwmFkfzA27U4GWmtJ5XhyZbFnEMv3TQXWo/edit?tab=t.0
+
+The .dat file viewer is at knit_script/knitout_compilers/dat-viewer.html
