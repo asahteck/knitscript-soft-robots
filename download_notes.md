@@ -1,9 +1,11 @@
 download notes
 
-Install GitHub https://desktop.github.com/download/
-Install Python https://www.python.org/downloads/
-Install PyCharm https://www.jetbrains.com/community/education/#students/
-Install Node.js https://nodejs.org/en/download/
+0. Install GitHub https://desktop.github.com/download/
+1. Install Python https://www.python.org/downloads/
+2. Install PyCharm https://www.jetbrains.com/community/education/#students/
+3. Install Node.js https://nodejs.org/en/download/
+
+
 $ git clone https://github.com/asahteck/knitscript_soft_robots.git
 
 Navigate into knitscript_soft_robots folder wherever it was cloned, using cd commands
