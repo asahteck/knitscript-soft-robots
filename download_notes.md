@@ -15,6 +15,7 @@ Navigate into knitscript_soft_robots folder wherever it was cloned, using cd com
 $ pip install -e .
 
 If you get error WARNING: Failed to write executable - trying to use .deleteme logic Go into your python folder (such as Python312) > Properties > Security and give the Users group full access (see here)
+You may also have to use pip3 instead of pip
 
 $ pip install knit-script
 
