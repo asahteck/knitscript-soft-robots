@@ -5,6 +5,8 @@ download notes
 2. Install PyCharm https://www.jetbrains.com/community/education/#students/
 3. Install Node.js https://nodejs.org/en/download/
 
+NOTE: KnitScript only works with Python 3.11 or 3.12 interpreters right now!
+
 
 $ git clone https://github.com/asahteck/knitscript_soft_robots.git
 
