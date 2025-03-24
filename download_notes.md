@@ -8,7 +8,7 @@ download notes
 NOTE: KnitScript only works with Python 3.11 or 3.12 interpreters right now!
 
 
-$ git clone https://github.com/asahteck/knitscript_soft_robots.git
+$ git clone https://github.com/asahteck/knitscript-soft-robots.git
 
 Navigate into knitscript_soft_robots folder wherever it was cloned, using cd commands
 
