@@ -10,7 +10,7 @@ NOTE: KnitScript only works with Python 3.11 or 3.12 interpreters right now!
 
 $ git clone https://github.com/asahteck/knitscript-soft-robots.git
 
-Navigate into knitscript_soft_robots folder wherever it was cloned, using cd commands
+Navigate into knitscript-soft-robots folder wherever it was cloned, using cd commands
 
 $ pip install -e .
 
